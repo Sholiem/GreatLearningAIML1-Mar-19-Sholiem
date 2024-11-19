@@ -1,0 +1,7 @@
+net.optimized_memory = 0 
+batch = 1, time_steps = 1, train = 0 
+
+ seen 64 
+data/imageandjson/imageandjson/000182.jpg: Predicted in 416.988000 milli-seconds.
+long sleeve top: 81%	(left_x:  157   top_y:  298   width:  238   height:  339)
+trousers: 100%	(left_x:  184   top_y:  518   width:  247   height:  472)
